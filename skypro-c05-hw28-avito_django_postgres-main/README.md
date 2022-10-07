@@ -25,5 +25,3 @@ password: 1234
 ./manage.py loaddata ads.json'
 ```
 
-Kirill Paveliev\
-August 2022
